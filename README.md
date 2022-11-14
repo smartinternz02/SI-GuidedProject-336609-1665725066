@@ -2,7 +2,7 @@
 Intelligent Alert System for Forest Tribal People  Using IBM Watson Studio
 
 # Team Number      : 13
-# College          : VITVAAGDEVI ENGINEERING COLLEGE
+# College          : VAAGDEVI ENGINEERING COLLEGE
 # Opted Technology : Artificial Intelligence
 
 ## Team Members
